@@ -1,0 +1,2 @@
+# Autocomplete - Bootstrap 4
+https://vuejsexamples.com/an-autocomplete-typeahead-component-for-vue-2-and-bootstrap-4/
